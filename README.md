@@ -1,21 +1,11 @@
-# Cisco Packet Tracer Cybersecurity Learnings  
+# Cisco Networking Academy Virtual Internship – Cybersecurity
 
-This repository contains Cisco Networking Academy Packet Tracer labs completed as part of the Cybersecurity Essentials course.
+This repository documents the hands-on labs, Packet Tracer simulations, and cybersecurity activities completed during the Cisco Networking Academy Virtual Internship.
 
-## Completed Tasks 
-
-### Task 01
-- Logical and Physical Mode Exploration
-
-### Task 02
-- Investigate a Threat Landscape
-
-## Skills Developed
-
+The internship focused on practical cybersecurity concepts including:
 - Network Security
-- Vulnerability Assessment
-- Packet Tracer Simulation
-- Wireless Security
-- DNS Security
-- Phishing Analysis
+- Threat Landscape Analysis
+- Access Control
+- Secure Network Design
 - Cybersecurity Fundamentals
+- Packet Tracer Simulations
